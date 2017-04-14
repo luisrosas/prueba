@@ -289,6 +289,10 @@ em {
   color: #d92400;
 }
 
+.nombre em{
+  color: blue;
+}
+
 img {
   display: block;
   width: 100%;
@@ -798,6 +802,11 @@ footer .twitter-share-button {
   position: absolute;
   width: 100%;
   top: 42%;
+}
+
+.nombre{
+  font-size: 4em;
+  width: 100%;
 }
 
 .background {
